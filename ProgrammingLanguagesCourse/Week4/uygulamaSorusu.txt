@@ -1,0 +1,7 @@
+Çarşamba gününe kadar çözünüz. Uygulamaya bilgisayarınız ile geliniz
+// verilen bir kelime(string) asagidaki sekilde şifreleniyor:
+// cift indisli karakterler key kadar sonraki karakter ile,
+// tek indisli karakterler key kadar onceki karakter ile,
+// kelime =aile
+// key    =2
+// sifreli kelime=cgnc

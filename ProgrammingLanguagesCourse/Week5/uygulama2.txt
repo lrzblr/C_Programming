@@ -1,0 +1,14 @@
+/* For a given matrix that is composed of 0s and 1s,
+   0s and 1s correspond to background and road respectively.
+   Two directions are avalible. User can move right or down. 
+   There are no junctions on road.
+   Starting from upper left corner, write the function that       examines the matrix and extracts the route that can be followed. 
+   Code moving right and down by 1 and 2 respectively
+   The matrix will be taken from the user in main function
+   Road tracking ought to be performed by an another function. 
+  		mat[][] -> 	1 1 0 0
+				0 1 1 1
+				0 0 0 1
+				0 0 0 1
+ route[]  ->	1 2 1 1 2 2
+*/

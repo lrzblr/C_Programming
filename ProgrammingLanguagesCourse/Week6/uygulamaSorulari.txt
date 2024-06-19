@@ -1,0 +1,13 @@
+Q1:
+write the program that places each digit of a given positive integer number to a char array. 
+Exp: N=4521 array[]= 4 5 2 1
+write five functions to 
+	-find number of digits
+	-allocate required space for array
+	-place digits to char array
+	-print the composed array
+Q2:
+Write the program that gets a sparse array and compresses the array by using the item orders of non zero elemets. Calculate the number of nonzero items and allocate the required space for the compressed array in main function. Write the function to compose the compressed array.
+Exp:
+array[]				= 0 0 0 2 0 0 0 5 0 0
+compressedArray[]		= 2 3 5 7	
